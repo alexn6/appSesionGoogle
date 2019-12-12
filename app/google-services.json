@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156795325945",
+    "firebase_url": "https://proysesiong.firebaseio.com",
+    "project_id": "proysesiong",
+    "storage_bucket": "proysesiong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156795325945:android:1a7dea635012d71eb08128",
+        "android_client_info": {
+          "package_name": "com.example.sesiongoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156795325945-jib2e4bkl82r11794l6sibtos60g2mg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3bApQycYOrQHfUQPW-1QmyAmBGCFupFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156795325945-jib2e4bkl82r11794l6sibtos60g2mg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
